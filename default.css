@@ -1,32 +1,32 @@
 @charset "utf-8";
 td {
-	font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .select {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
 }
 .button {
-	border: medium solid #FFFFFF;
-	background-color: #000000;
-	color: #FFFFFF;
-	font-size: 16px;
-	font-weight: bold;
+  border: medium solid #ffffff;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: bold;
 }
 .list {
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;
-	width: 275px;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000000;
-	border-right-color: #000000;
-	border-bottom-color: #000000;
-	border-left-color: #000000;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 275px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: #000000;
+  border-right-color: #000000;
+  border-bottom-color: #000000;
+  border-left-color: #000000;
 }
 .kosong {
-	color: #FF0000;
-	font-weight: bold;
+  color: #ff0000;
+  font-weight: bold;
 }
