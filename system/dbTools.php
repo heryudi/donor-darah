@@ -1,9 +1,9 @@
 <?php
 class DbTools{
 	var $Server1		= "127.0.0.1";
-	var	$DbHost			= "localhost";
+	var	$DbHost			= "db";
 	var	$Username		= "root";
-	var	$Password		= "";
+	var	$Password		= "root";
 	var $Database		= "pmi";
 	var $IDCon			= 0;
 	var $IDQuery		= 0;
